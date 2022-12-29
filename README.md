@@ -10,5 +10,5 @@
 
 ##### Below are the snapshots of the endproduct. 
 
-![https://github.com/evanxuw/Interesting-Visuals/blob/main/HRAnalytics_overview.png]
-![https://github.com/evanxuw/Interesting-Visuals/blob/main/HRAnalytics_demographics.png]
+![Overview Human Resources Data Analytics Overview]<img src='HRAnalytics_overview.png'>
+![HR Analytics Demographics]<img src='HRAnalytics_demographics.png'>
