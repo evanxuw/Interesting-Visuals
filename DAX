@@ -9,6 +9,12 @@
 ##### SUMMARIZE() -- returns a summary table for the requested total over a set of groups (groupby); resulting in a table w/ columns, not measures 
 ##### time-intelligence series analysis: TOTALYTD() 
 
+##### design layout: take advantage of bookmark function to tell stories. 
+
+
+
+
+
 ##### snapshots below: 
 
 [Q and A Function] <img src='QA.png'>
