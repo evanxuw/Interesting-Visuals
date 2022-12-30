@@ -1,0 +1,16 @@
+### This serves the purpose to document important DAX functions that I have used in various dashboards and BI reports. 
+
+
+##### USERPRINCIPALNAME(), USERNAME()
+
+##### RLSP: manage data accesss and personalize dashboards (who can see what information)
+
+##### ADDCOLUMNS()--returns input table appended with the selected columns from another table; SELECTCOLUMNS()--returns the selected columns from another table as a new table
+##### SUMMARIZE() -- returns a summary table for the requested total over a set of groups (groupby); resulting in a table w/ columns, not measures 
+##### time-intelligence series analysis: TOTALYTD() 
+
+##### snapshots below: 
+
+[Q and A Function] <img src='QA.png'>
+[Time Intelligence Series Analysis] <img src='TotalYoDSales.png'>
+[Advanced DAX to calculate Time Series Variable] <img src ='DAXFun.png'>
